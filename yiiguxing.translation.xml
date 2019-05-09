@@ -1,4 +1,23 @@
 <application>
+  <component name="AppStorage">
+    <histories>
+      <item value="activiti" />
+      <item value="configure" />
+      <item value="Data Source Transaction Manager" />
+      <item value="Database Id Provider" />
+      <item value="set Property" />
+      <item value="Oracle" />
+      <item value="My SQL" />
+      <item value="Jeeplus Web Application" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="7" />
+        <entry key="ENGLISH" value="7" />
+        <entry key="ROMANIAN" value="1" />
+      </map>
+    </option>
+  </component>
   <component name="Settings">
     <option name="ignoreRegExp" value="" />
   </component>
