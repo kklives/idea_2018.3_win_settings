@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="include Dirs" />
+      <item value="recursive" />
       <item value="activiti" />
       <item value="configure" />
       <item value="Data Source Transaction Manager" />
@@ -12,8 +14,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="7" />
+        <entry key="CHINESE" value="8" />
+        <entry key="ENGLISH" value="9" />
         <entry key="ROMANIAN" value="1" />
       </map>
     </option>
